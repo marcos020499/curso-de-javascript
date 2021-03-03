@@ -1,0 +1,24 @@
+{
+  "usuarios": [
+    {
+      "id": 0,
+      "nombre": "Carlos",
+      "ciudad": "Guadalajara" 
+    },
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "ciudad": "Monterrey" 
+    },
+    {
+      "id": 2,
+      "nombre": "Miguel",
+      "ciudad": "CDMX" 
+    },
+    {
+      "id": 3,
+      "nombre": "Antonio",
+      "ciudad": "Cancun" 
+    }
+  ]
+}
